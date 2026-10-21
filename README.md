@@ -1,0 +1,1 @@
+# rimfrost-regel-kommunicering
