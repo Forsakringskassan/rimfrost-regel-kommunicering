@@ -1,0 +1,17 @@
+name: Bundle Maven CI
+
+on: [workflow_dispatch, workflow_call, push, pull_request]
+
+jobs:
+  call-workflow:
+    permissions:
+      security-events: write
+      actions: read
+      contents: read
+      packages: write
+    uses: Forsakringskassan/.github/.github/workflows/bundle-maven-ci.yaml@7dc0edc0051d2e7b37cfbe45b51841141ee3a835 # main
+
+  validate-config:
+    uses: Forsakringskassan/rimfrost-framework-regel/.github/workflows/validate-config.yaml@2e485e6f46b33020fcef46874dab2660344feb7b # 1.4.3
+    with:
+      framework-ref: '1.2.3'

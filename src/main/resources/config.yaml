@@ -1,0 +1,34 @@
+uppgift:
+  id: ca07a8f7-d682-403a-8098-c16f224350ef
+  version: 1
+  path: /regel/kommunicering
+  aktivitet: "Kommunicering"
+
+specifikation:
+  id: 1e8d6609-955b-4a29-8aea-c463f6b369bb
+  version: 1
+  namn: "Kommunicering"
+  uppgiftbeskrivning: "Kommunicering"
+  verksamhetslogik: B
+  roll: ANSVARIG_HANDLAGGARE
+  applikationsId: 4.2.3
+  applikationsversion: kommunicering_1.0
+
+regel:
+  id: 11fa094f-e9ed-4c80-9cd2-eb1b96179deb
+  version: 1
+  namn: "Kommunicering"
+  beskrivning: "Kommunicering"
+
+lagrum:
+  id: 53c38de6-6be6-4791-b461-8f5821d9aacc
+  version: 1
+  giltigFom: "2010-02-11"
+  forfattning: "Husdjursbalken"
+  kapitel: 2
+  paragraf: 6
+  stycke: 2
+  punkt: 5
+
+utokadUppgiftsbeskrivning:
+  beskrivning: "Hantera kommunicering från kund"
