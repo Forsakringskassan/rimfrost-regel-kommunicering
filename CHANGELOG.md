@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-regel-kommunicering.
 
+## 0.1.0 (2026-11-09)
+
+### Features
+
+-  Bump dependencies ([ea904](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/ea904f4ee5684ab) Lars Persson)  
+
 ## 0.0.1 (2026-11-04)
 
 ### Features
