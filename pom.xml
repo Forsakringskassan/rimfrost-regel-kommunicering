@@ -34,12 +34,12 @@
     <dependency>
       <groupId>se.fk.rimfrost.framework.regel.kommunicering</groupId>
       <artifactId>rimfrost-framework-regel-kommunicering</artifactId>
-      <version>0.1.0</version>
+      <version>0.1.1</version>
     </dependency>
     <dependency>
       <groupId>se.fk.rimfrost.framework.regel.kommunicering</groupId>
       <artifactId>rimfrost-framework-regel-kommunicering</artifactId>
-      <version>0.1.0</version>
+      <version>0.1.1</version>
       <classifier>tests</classifier>
       <scope>test</scope>
     </dependency>
