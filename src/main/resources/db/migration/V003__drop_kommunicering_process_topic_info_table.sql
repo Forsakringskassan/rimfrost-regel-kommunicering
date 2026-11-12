@@ -1,0 +1,1 @@
+DROP TABLE kommunicering_process_topic_info;
