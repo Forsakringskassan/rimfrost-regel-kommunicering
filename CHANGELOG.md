@@ -2,6 +2,18 @@
 
 Changelog of rimfrost-regel-kommunicering.
 
+## 0.1.1 (2026-11-19)
+
+### Bug Fixes
+
+-  Bump rimfrost-framework-regel-kommunicering to 0.1.2 ([9ad5e](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/9ad5e4829c82a1b) Lars Persson)  
+-  Add regelutfall and kommentar columns to common_data table ([a13a7](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/a13a72d10ccc55b) Lars Persson)  
+-  Cleanup replyTo leftovers ([2a801](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/2a8016a1dfe3113) Lars Persson)  
+
+### Dependency updates
+
+- update dependency se.fk.rimfrost.framework.regel:rimfrost-framework-regel to v1.6.1 ([af898](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/af898a52e1594ba) renovate[bot])  
+- update forsakringskassan/.github digest to cbc0db8 ([e3ce5](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/e3ce531fb9752ab) renovate[bot])  
 ## 0.1.0 (2026-11-09)
 
 ### Features
