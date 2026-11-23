@@ -2,6 +2,15 @@
 
 Changelog of rimfrost-regel-kommunicering.
 
+## 0.1.2 (2026-11-23)
+
+### Bug Fixes
+
+-  Bump dependencies ([c7a4a](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/c7a4acb1cac0377) Lars Persson)  
+
+### Dependency updates
+
+- update dependency se.fk.rimfrost.framework.regel:rimfrost-framework-regel to v1.6.2 ([a06c1](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/a06c10f1ea2df2e) renovate[bot])  
 ## 0.1.1 (2026-11-19)
 
 ### Bug Fixes
