@@ -2,6 +2,14 @@
 
 Changelog of rimfrost-regel-kommunicering.
 
+## 0.1.3 (2026-11-26)
+
+### Bug Fixes
+
+-  Bump rimfrost-framework-regel-kommunicering to 0.1.4 ([3fd00](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering/commit/3fd00fcd870ed8a) Lars Persson)  
+
+## rimfrost-1_3 (2026-11-23)
+
 ## 0.1.2 (2026-11-23)
 
 ### Bug Fixes
