@@ -12,6 +12,6 @@ jobs:
     uses: Forsakringskassan/.github/.github/workflows/bundle-maven-ci.yaml@cbc0db833d2d0584b3b0e3b7ed4fd27867b3f6ed # main
 
   validate-config:
-    uses: Forsakringskassan/rimfrost-framework-regel/.github/workflows/validate-config.yaml@2e485e6f46b33020fcef46874dab2660344feb7b # 1.4.3
+    uses: Forsakringskassan/rimfrost-framework-regel/.github/workflows/validate-config.yaml@c4c0fd199d94e76d5b1e8f3472df9319ee101a7c # 1.6.2
     with:
       framework-ref: '1.2.3'
